@@ -4,6 +4,8 @@
  console.log(process.argv[2]);
  console.log(process.argv[3]);
  console.error('BYBY2');
+ 
+ console.log('byby');
 
  var http = require('http');
  
